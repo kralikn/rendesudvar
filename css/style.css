@@ -150,6 +150,10 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
   #navigation {
     display: none;
   }
+  .landing-headline {
+    font-size: 1.9rem;
+  }
+
   .landing-content-text {
     margin-top: 6rem;
   }
