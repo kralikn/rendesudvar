@@ -251,6 +251,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
   background: #1E1240;
   font-weight: 300;
   /* border: 1px solid #fff; */
+  border: none;
 }
 
 
