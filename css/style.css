@@ -96,7 +96,7 @@ html {
     width: 100%;
   }
   .landing-content-text {
-    margin-top: 9rem;
+    margin-top: 5rem;
   }
 }
 
@@ -105,7 +105,7 @@ html {
     display: none;
   }
   .landing-content-text {
-    margin-top: 9rem;
+    margin-top: 6rem;
   }
 }
 
@@ -258,7 +258,7 @@ footer {
 
   .contact p,
   .contact a {
-    font-size: .8rem;
+    font-size: .7rem;
   }
 
   .contact img {
