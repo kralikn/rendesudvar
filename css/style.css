@@ -124,7 +124,7 @@ border: 1px solid rgba( 255, 255, 255, 0.18 );
     width: 90%;
     /* right: -5%; */
     opacity: .9;
-    bottom: 2%;
+    bottom: 10%;
     left: 50%;
     transform: translateX(-50%);
   }
